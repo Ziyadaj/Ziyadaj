@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ziyadaj
-- 👀 I’m interested in Web dev / ML
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in ML/AI
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: Ziyad.jadhai@gmail.com
 
 <!---
