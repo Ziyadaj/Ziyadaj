@@ -1,5 +1,4 @@
 - ML/AI
-- How to reach me: Ziyad.jadhai@gmail.com
 
 <!---
 Ziyadaj/Ziyadaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
